@@ -2114,7 +2114,7 @@ __metadata:
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/docregistry": ^4.0.0
     "@jupyterlab/rendermime": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/statedb": ^4.0.0
     "@jupyterlab/testing": ^4.0.0
@@ -2148,7 +2148,7 @@ __metadata:
     "@jupyterlab/docregistry": ^4.0.0
     "@jupyterlab/filebrowser": ^4.0.0
     "@jupyterlab/mainmenu": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/settingregistry": ^4.0.0
     "@jupyterlab/statedb": ^4.0.0
@@ -2177,7 +2177,7 @@ __metadata:
   dependencies:
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/observables": ^5.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/settingregistry": ^4.0.0
     "@jupyterlab/statedb": ^4.0.0
@@ -2213,7 +2213,7 @@ __metadata:
     "@jupyterlab/nbformat": ^4.0.0
     "@jupyterlab/observables": ^5.0.0
     "@jupyterlab/rendermime": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@lumino/disposable": ^2.1.1
     "@lumino/signaling": ^2.1.1
     rimraf: ~3.0.0
@@ -2815,7 +2815,7 @@ __metadata:
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/observables": ^5.0.0
     "@jupyterlab/rendermime": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/testing": ^4.0.0
     "@jupyterlab/translation": ^4.0.0
@@ -3328,7 +3328,7 @@ __metadata:
     "@jupyterlab/lsp": ^4.0.0
     "@jupyterlab/mainmenu": ^4.0.0
     "@jupyterlab/observables": ^5.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/settingregistry": ^4.0.0
     "@jupyterlab/statusbar": ^4.0.0
@@ -3578,7 +3578,7 @@ __metadata:
   resolution: "@jupyterlab/javascript-extension@workspace:packages/javascript-extension"
   dependencies:
     "@jupyterlab/rendermime": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     rimraf: ~3.0.0
     typedoc: ~0.24.7
     typescript: ~5.0.4
@@ -3591,7 +3591,7 @@ __metadata:
   dependencies:
     "@jupyterlab/apputils": ^4.1.0
     "@jupyterlab/codemirror": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/translation": ^4.0.0
     "@jupyterlab/ui-components": ^4.0.0
     "@lezer/highlight": ^1.1.4
@@ -3965,7 +3965,7 @@ __metadata:
     "@jupyterlab/property-inspector": ^4.0.0
     "@jupyterlab/rendermime": ^4.0.0
     "@jupyterlab/rendermime-extension": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/running": ^4.0.0
     "@jupyterlab/running-extension": ^4.0.0
     "@jupyterlab/services": ^7.0.0
@@ -4184,7 +4184,7 @@ __metadata:
     "@jupyterlab/nbformat": ^4.0.0
     "@jupyterlab/observables": ^5.0.0
     "@jupyterlab/rendermime": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/testing": ^4.0.0
     "@jupyterlab/translation": ^4.0.0
@@ -4207,7 +4207,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@jupyterlab/pdf-extension@workspace:packages/pdf-extension"
   dependencies:
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@lumino/coreutils": ^2.1.1
     "@lumino/disposable": ^2.1.1
     "@lumino/widgets": ^2.1.1
@@ -4250,7 +4250,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@jupyterlab/rendermime-interfaces@^3.8.0, @jupyterlab/rendermime-interfaces@workspace:packages/rendermime-interfaces":
+"@jupyterlab/rendermime-interfaces@^3.6.3, @jupyterlab/rendermime-interfaces@workspace:packages/rendermime-interfaces":
   version: 0.0.0-use.local
   resolution: "@jupyterlab/rendermime-interfaces@workspace:packages/rendermime-interfaces"
   dependencies:
@@ -4270,7 +4270,7 @@ __metadata:
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/nbformat": ^4.0.0
     "@jupyterlab/observables": ^5.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/testing": ^4.0.0
     "@jupyterlab/translation": ^4.0.0
@@ -4319,7 +4319,7 @@ __metadata:
     "@jupyterlab/application": ^4.0.0
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/docregistry": ^4.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/running": ^4.0.0
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/translation": ^4.0.0
@@ -4770,7 +4770,7 @@ __metadata:
   resolution: "@jupyterlab/translation@workspace:packages/translation"
   dependencies:
     "@jupyterlab/coreutils": ^6.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/services": ^7.0.0
     "@jupyterlab/statedb": ^4.0.0
     "@jupyterlab/testing": ^4.0.0
@@ -4800,7 +4800,7 @@ __metadata:
   dependencies:
     "@jupyterlab/coreutils": ^6.0.0
     "@jupyterlab/observables": ^5.0.0
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/testing": ^4.0.0
     "@jupyterlab/translation": ^4.0.0
     "@lumino/algorithm": ^2.0.0
@@ -4834,7 +4834,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@jupyterlab/vega5-extension@workspace:packages/vega5-extension"
   dependencies:
-    "@jupyterlab/rendermime-interfaces": ^3.8.0
+    "@jupyterlab/rendermime-interfaces": ^3.6.3
     "@jupyterlab/testutils": ^4.0.0
     "@lumino/coreutils": ^2.1.1
     "@lumino/widgets": ^2.1.1
