@@ -46,7 +46,7 @@
     "@jupyterlab/coreutils": "^6.0.0",
     "@jupyterlab/nbformat": "^4.0.0",
     "@jupyterlab/observables": "^5.0.0",
-    "@jupyterlab/rendermime-interfaces": "^3.8.0",
+    "@jupyterlab/rendermime-interfaces": "^3.6.3",
     "@jupyterlab/services": "^7.0.0",
     "@jupyterlab/translation": "^4.0.0",
     "@lumino/coreutils": "^2.1.1",
